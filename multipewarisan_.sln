@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polimorpi", "polimorpi\poli
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program noOverring", "Program noOverring\Program noOverring.vcxproj", "{1A8DEB6C-1A49-49C5-9404-3C1648CB7A56}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nopewaris", "nopewaris\nopewaris.vcxproj", "{8143588A-98A9-41D9-AE0B-838A6F4198C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{1A8DEB6C-1A49-49C5-9404-3C1648CB7A56}.Release|x64.Build.0 = Release|x64
 		{1A8DEB6C-1A49-49C5-9404-3C1648CB7A56}.Release|x86.ActiveCfg = Release|Win32
 		{1A8DEB6C-1A49-49C5-9404-3C1648CB7A56}.Release|x86.Build.0 = Release|Win32
+		{8143588A-98A9-41D9-AE0B-838A6F4198C1}.Debug|x64.ActiveCfg = Debug|x64
+		{8143588A-98A9-41D9-AE0B-838A6F4198C1}.Debug|x64.Build.0 = Debug|x64
+		{8143588A-98A9-41D9-AE0B-838A6F4198C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{8143588A-98A9-41D9-AE0B-838A6F4198C1}.Debug|x86.Build.0 = Debug|Win32
+		{8143588A-98A9-41D9-AE0B-838A6F4198C1}.Release|x64.ActiveCfg = Release|x64
+		{8143588A-98A9-41D9-AE0B-838A6F4198C1}.Release|x64.Build.0 = Release|x64
+		{8143588A-98A9-41D9-AE0B-838A6F4198C1}.Release|x86.ActiveCfg = Release|Win32
+		{8143588A-98A9-41D9-AE0B-838A6F4198C1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
